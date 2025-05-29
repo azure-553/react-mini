@@ -1,0 +1,21 @@
+{
+  "name": "react-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azure-553/react-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/azure-553/react-mini/issues"
+  },
+  "homepage": "https://github.com/azure-553/react-mini#readme"
+}
